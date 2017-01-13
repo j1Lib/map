@@ -2,6 +2,8 @@
 
 render library for hong kong region full map
 
+![Imgur](http://i.imgur.com/RfEPSdh.png)
+
 ###Element
 
 
